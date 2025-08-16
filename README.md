@@ -5,4 +5,6 @@ I used the Euler's method to implement the physics and math behind this simulati
 
 I used python in this project, and learned pygame from the scratch. 
 
+I used Euler's method as I was more comfortable with it than RK4. However, there are optimizations coming!
+
 It was truly a exciting project to work on. Seeing your code come to life (to simulation!)
